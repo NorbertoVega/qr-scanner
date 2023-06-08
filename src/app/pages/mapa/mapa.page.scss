@@ -1,0 +1,19 @@
+#map {
+  height: 100% !important;
+  width: 100% !important;
+}
+
+.leaflet-popup {
+  width: 500px !important;
+}
+
+.leaflet-popup-content {
+  width: 500px !important;
+}
+
+.boton-regresar {
+  position: fixed;
+  top: 40px;
+  right: 12px;
+  font-size: 30px !important;
+}

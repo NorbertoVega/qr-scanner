@@ -1,0 +1,35 @@
+npm i phonegap-plugin-barcodescanner
+npm install @awesome-cordova-plugins/barcode-scanner
+ionic cap sync
+
+ionic build
+ionic capacitor add android
+ionic capacitor copy android
+
+chrome://inspect/#devices
+
+ionic g s services/dataLocal
+
+ionic g s services/dataLocal
+
+npm install @ionic/storage-angular
+
+npm install cordova-plugin-inappbrowser
+npm install @awesome-cordova-plugins/in-app-browser
+npx cap sync
+ionic build
+ionic capacitor copy android
+
+ionic g page pages/mapa
+
+npm install cordova-plugin-file
+npm install @awesome-cordova-plugins/file
+npx cap sync
+ionic build
+ionic capacitor copy android
+
+npm install cordova-plugin-email-composer
+npm install @awesome-cordova-plugins/email-composer
+npx cap sync
+ionic build
+ionic capacitor copy android
